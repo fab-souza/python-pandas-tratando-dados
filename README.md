@@ -14,4 +14,4 @@
 
 ![](https://user-images.githubusercontent.com/67301805/206497970-07bf0ec6-06b8-4687-a6fc-2d94fa9e4bba.jpg#vitrinedev)
 
-Neste curso, aprofundei meus conhecimentos sobre a biblioteca Pandas. O dataset usado durante as aulas foi sobre o mercado imobiliário da cidade do Rio de Janeiro, em que haviam informações a respeito do tipo de imóvel, bairro em que se encontra, número de quartos, número de vagas, suíte, área por metro quadrado, valor do aluguel, valor do condomínio e IPTU.
+Neste curso, aprofundei meus conhecimentos sobre a biblioteca Pandas. O dataset usado durante as aulas foi sobre o mercado imobiliário da cidade do Rio de Janeiro, em que haviam informações a respeito do tipo de imóvel, bairro em que se encontra, número de quartos, número de vagas para carros, quantidade de suíte, sua área em metro quadrado, valor do aluguel, valor do condomínio e IPTU. Nos cursos anteriores, eu já havia utilizado algumas funções do Pandas, por exemplo: ‘.read_’, porém neste curso aprendi como fazer um novo dataframe, usando alguma informação do dataset original, substituir valores nulos, criar novos agrupamentos, como visualizar e remover outliers.
