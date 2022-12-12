@@ -14,4 +14,4 @@
 
 ![](https://user-images.githubusercontent.com/67301805/206497970-07bf0ec6-06b8-4687-a6fc-2d94fa9e4bba.jpg#vitrinedev)
 
-O que aprendi no 4º curso da formação: Python para Data Science (Alura)
+Neste curso, aprofundei meus conhecimentos sobre a biblioteca Pandas. O dataset usado durante as aulas foi sobre o mercado imobiliário da cidade do Rio de Janeiro, em que haviam informações a respeito do tipo de imóvel, bairro em que se encontra, número de quartos, número de vagas, suíte, área por metro quadrado, valor do aluguel, valor do condomínio e IPTU.
