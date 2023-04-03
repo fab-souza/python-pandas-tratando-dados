@@ -3,7 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/python-pandas-tratando-dados)
-![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/python-pandas-tratando-dados)
+
 
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
